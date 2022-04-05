@@ -1,0 +1,175 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Big Mac",
+      "price": "2",
+      "image": "https://neal.fun/spend/images/big-mac.jpg",
+      "imageAlt": "Big Mac",
+      "amount": "0"
+    },
+    {
+      "id": "2",
+      "title": "Book",
+      "price": "10",
+      "image": "https://neal.fun/spend/images/book.jpg",
+      "imageAlt": "Book",
+      "amount": "0"
+    },
+    {
+      "id": "3",
+      "title": "Video Game",
+      "price": "60",
+      "image": "https://neal.fun/spend/images/video-game.jpg",
+      "imageAlt": "Video Game",
+      "amount": "0"
+    },
+    {
+      "id": "4",
+      "title": "Year of Netflix",
+      "price": "100",
+      "image": "https://neal.fun/spend/images/year-of-netflix.jpg",
+      "imageAlt": "Year of Netflix",
+      "amount": "0"
+    },
+    {
+      "id": "5",
+      "title": "Drone",
+      "price": "350",
+      "image": "https://neal.fun/spend/images/drone.jpg",
+      "imageAlt": "Drone",
+      "amount": "0"
+    },
+    {
+      "id": "6",
+      "title": "Smart Phone",
+      "price": "699",
+      "image": "https://neal.fun/spend/images/smartphone.jpg",
+      "imageAlt": "Smart Phone",
+      "amount": "0"
+    },
+    {
+      "id": "7",
+      "title": "Bike",
+      "price": "800",
+      "image": "https://neal.fun/spend/images/bike.jpg",
+      "imageAlt": "Bike",
+      "amount": "0"
+    },
+    {
+      "id": "8",
+      "title": "Designer Handbag",
+      "price": "5500",
+      "image": "https://neal.fun/spend/images/designer-handbag.jpg",
+      "imageAlt": "Designer Handbag",
+      "amount": "0"
+    },
+    {
+      "id": "9",
+      "title": "Diamond Ring",
+      "price": "10000",
+      "image": "https://neal.fun/spend/images/diamond-ring.jpg",
+      "imageAlt": "Diamond Ring",
+      "amount": "0"
+    },
+    {
+      "id": "10",
+      "title": "Ford F-150",
+      "price": "30000",
+      "image": "https://neal.fun/spend/images/ford-f-150.jpg",
+      "imageAlt": "Ford F-150",
+      "amount": "0"
+    },
+    {
+      "id": "11",
+      "title": "Tesla",
+      "price": "75000",
+      "image": "https://neal.fun/spend/images/tesla.jpg",
+      "imageAlt": "Tesla",
+      "amount": "0"
+    },
+    {
+      "id": "12",
+      "title": "Ferrari",
+      "price": "250000",
+      "image": "https://neal.fun/spend/images/ferrari.jpg",
+      "imageAlt": "Ferrari",
+      "amount": "0"
+    },
+    {
+      "id": "13",
+      "title": "Gold Bar",
+      "price": "700000",
+      "image": "https://neal.fun/spend/images/gold-bar.jpg",
+      "imageAlt": "Gold Bar",
+      "amount": "0"
+    },
+    {
+      "id": "14",
+      "title": "McDonalds Franchise",
+      "price": "1500000",
+      "image": "https://neal.fun/spend/images/mcdonalds-franchise.jpg",
+      "imageAlt": "McDonalds Franchise",
+      "amount": "0"
+    },
+    {
+      "id": "15",
+      "title": "Yacht",
+      "price": "7500000",
+      "image": "https://neal.fun/spend/images/yacht.jpg",
+      "imageAlt": "Yacht",
+      "amount": "0"
+    },
+    {
+      "id": "16",
+      "title": "Formula 1 Car",
+      "price": "15000000",
+      "image": "https://neal.fun/spend/images/formula-1-car.jpg",
+      "imageAlt": "Formula 1 Car",
+      "amount": "0"
+    },
+    {
+      "id": "17",
+      "title": "Mansion",
+      "price": "45000000",
+      "image": "https://neal.fun/spend/images/mansion.jpg",
+      "imageAlt": "Mansion",
+      "amount": "0"
+    },
+    {
+      "id": "18",
+      "title": "Boeing 747",
+      "price": "148000000",
+      "image": "https://neal.fun/spend/images/boeing-747.jpg",
+      "imageAlt": "Boeing 747",
+      "amount": "0"
+    },
+    {
+      "id": "19",
+      "title": "Skyscraper",
+      "price": "850000000",
+      "image": "https://neal.fun/spend/images/skyscraper.jpg",
+      "imageAlt": "Skyscraper",
+      "amount": "0"
+    },
+    {
+      "id": "20",
+      "title": "Cruise Ship",
+      "price": "930000000",
+      "image": "https://neal.fun/spend/images/cruise-ship.jpg",
+      "imageAlt": "Cruise Ship",
+      "amount": "0"
+    },
+    {
+      "id": "21",
+      "title": "NBA Team",
+      "price": "2120000000",
+      "image": "https://neal.fun/spend/images/nba-team.jpg",
+      "imageAlt": "NBA Team",
+      "amount": "0"
+    }
+  ],
+  "navMoney":100000000000,
+  "receiptMoney":100000000000
+
+}

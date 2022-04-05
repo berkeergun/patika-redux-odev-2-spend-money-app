@@ -1,3 +1,5 @@
+# Redux Spend Bill Gates Money App [Live Server](https://redux-spend-money-app-berke.surge.sh/)
+![spend-money-app](./src/spend-money.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
